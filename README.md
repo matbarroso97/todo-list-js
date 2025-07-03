@@ -1,10 +1,10 @@
 # ✅ ToDo List - Gerenciador de Tarefas com HTML5, CSS3 e JavaScript
 
-📄 **Descrição**
+## 📄 **Descrição**
 
 Este projeto é uma aplicação web de lista de tarefas desenvolvida como prática de Front-End. O foco principal foi criar um sistema funcional de gerenciamento de tarefas com adição, edição, exclusão, marcação de conclusão, pesquisa e filtragem, utilizando JavaScript puro e salvando os dados no `localStorage`.
 
-**Principais objetivos abordados:**
+## **Principais objetivos abordados:**
 
 - Manipulação do DOM com JavaScript  
 - Estilização com CSS3  
@@ -14,12 +14,12 @@ Este projeto é uma aplicação web de lista de tarefas desenvolvida como práti
 
 ---
 
-🔗 **Link do Projeto Online**  
+## 🔗 **Link do Projeto Online**  
 👉 [Acessar ToDo List](https://matbarroso97.github.io/todo-list-js/)
 
 ---
 
-🛠 **Tecnologias Utilizadas**
+## 🛠 **Tecnologias Utilizadas**
 
 - HTML5  
 - CSS3  
@@ -28,7 +28,7 @@ Este projeto é uma aplicação web de lista de tarefas desenvolvida como práti
 
 ---
 
-⚙️ **Recursos da Página**
+## ⚙️ **Recursos da Página**
 
 - **Formulário de criação de tarefas**: Adiciona novas tarefas à lista.
 - **Formulário de edição**: Permite alterar o texto de uma tarefa existente.
@@ -43,7 +43,7 @@ Este projeto é uma aplicação web de lista de tarefas desenvolvida como práti
 
 ---
 
-💻 **Como rodar o projeto localmente**
+## 💻 **Como rodar o projeto localmente**
 
 Clone o repositório:
 
@@ -58,7 +58,7 @@ cd todo-list-js
 start index.html
 ```
 
-🧠 **Aprendizados**
+## 🧠 **Aprendizados**
 
 Este projeto me ajudou a praticar:
 
